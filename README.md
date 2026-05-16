@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ingteranalvarez.vercel.app">Sitio</a> ·
+  <a href="https://ingteranalvarez.com">Sitio</a> ·
   <a href="mailto:ingteranalvarez@gmail.com">Contacto</a>
 </p>
 
