@@ -1,7 +1,7 @@
-<h1 align="center">Daniel Terán Álvarez</h1>
+<h1 align="center">Daniel Alejandro Terán Alvarez</h1>
 
 <p align="center">
-  Ingeniero Mecatrónico · Gerente de Hospital · Construyo sistemas y automatizaciones con IA
+  Gerente Operativo de Médéric Hospital · Del CNC al software · Construyo sistemas que se operan solos
 </p>
 
 <p align="center">
@@ -13,11 +13,10 @@
 
 ### Qué hago
 
-- 🏥 Dirijo la operación del **Hospital Médéric** (Guadalajara, México) y construyo su sistema interno —agenda de cirugías, bitácoras y automatizaciones— en **Flask, en producción**.
+- 🏥 Gerente Operativo de **Médéric Hospital** (Guadalajara, México) y construyo nuestro sistema interno —administración interna, agenda de cirugías, bitácoras y automatizaciones— en **Flask, en producción**.
 - ⚙️ Socio en **Harald**, distribuidora de abrasivos industriales.
-- 🎓 Cursando una **Maestría en Finanzas** (Universidad Panamericana).
-- 🤖 Creo contenido sobre **IA y tecnología aplicada**.
-- 🛠️ Mi obsesión: convertir procesos manuales y caóticos en software que se opera solo.
+- 🎓 Cursando una **Maestría en Finanzas e Impuestos** (Universidad Panamericana).
+- 🛠️ Mi obsesión: me encantan los retos y la tecnología, amante de la tecnología **CNC**, ahora sumergido en el software.
 
 ### Stack
 
@@ -25,4 +24,4 @@
 
 ---
 
-<p align="center"><sub>De ingeniería mecatrónica a software que mueve un hospital todos los días.</sub></p>
+<p align="center"><sub>Del CNC al software que mueve un hospital todos los días.</sub></p>
