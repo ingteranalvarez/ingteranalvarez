@@ -1,7 +1,7 @@
 <h1 align="center">Daniel Alejandro Terán Alvarez</h1>
 
 <p align="center">
-  Gerente Operativo de Médéric Hospital · Del CNC al software · Construyo sistemas que se operan solos
+  Gerente Médéric Hospital(Gdl.Jal.Mx) · Del CNC al software · Construyo sistemas que se operan solos
 </p>
 
 <p align="center">
