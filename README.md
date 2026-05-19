@@ -24,4 +24,4 @@
 
 ---
 
-<p align="center"><sub>Del CNC al software que mueve un hospital todos los días.</sub></p>
+<p align="center"><sub>Del desarrollo de Hardware al Software que mueve un hospital todos los días.</sub></p>
