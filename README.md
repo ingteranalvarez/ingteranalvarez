@@ -1,7 +1,7 @@
 <h1 align="center">Daniel Alejandro Terán Alvarez</h1>
 
 <p align="center">
-  Gerente Médéric Hospital(Gdl.Jal.Mx) · Del CNC al software · Construyo sistemas que se operan solos
+  Manager at Médéric Hospital (Gdl, México) · I come from hardware, know obsessed with software and business.
 </p>
 
 <p align="center">
@@ -11,17 +11,14 @@
 
 ---
 
-### Qué hago
+### What am I working on?
 
-- 🏥 Gerente Operativo de **Médéric Hospital** (Guadalajara, México) y construyo nuestro sistema interno —administración interna, agenda de cirugías, bitácoras y automatizaciones— en **Flask, en producción**.
-- ⚙️ Socio en **Harald**, distribuidora de abrasivos industriales.
-- 🎓 Cursando una **Maestría en Finanzas e Impuestos** (Universidad Panamericana).
-- 🛠️ Mi obsesión: me encantan los retos y la tecnología, amante de la tecnología **CNC**, ahora sumergido en el software.
+- 📚 Finishing a Master Degree in Comptrollership (Finances and Taxes).
+- 🏥 Working on scaling Médéric Hospital, I'm involved in business direction, I've been building our own software for the past year.
+- ⚙️ Harald Startup, hardware distribution company based in Guadalajara Mexico.
 
 ### Stack
 
-`Python` · `Flask` · `JavaScript / TypeScript` · `SQL` · `Automatización` · `LLMs / IA aplicada`
+`Python` · `Flask` · `JavaScript / TypeScript` · `SQL` · `Automatización` · `LLMs / Applied IA`
 
 ---
-
-<p align="center"><sub>Del desarrollo de Hardware al Software que mueve un hospital todos los días.</sub></p>
