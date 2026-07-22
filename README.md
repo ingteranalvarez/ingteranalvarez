@@ -1,4 +1,4 @@
-<h1 align="center">Daniel Alejandro Terán Alvarez</h1>
+<h1 align="center">Eng. Daniel Alejandro Terán Alvarez</h1>
 
 <p align="center">
   Software Builder · Manager at Médéric Hospital (Gdl, México) · I come from hardware, know obsessed with software and business.
