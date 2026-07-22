@@ -1,7 +1,7 @@
 <h1 align="center">Daniel Alejandro Terán Alvarez</h1>
 
 <p align="center">
-  Manager at Médéric Hospital (Gdl, México) · I come from hardware, know obsessed with software and business.
+  Software Builder · Manager at Médéric Hospital (Gdl, México) · I come from hardware, know obsessed with software and business.
 </p>
 
 <p align="center">
